@@ -1,3 +1,3 @@
 # vite-jest
 
-A configuration for runing jest tests inside vite
+A configuration for running jest tests inside vite
